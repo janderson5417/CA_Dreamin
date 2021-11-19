@@ -5,11 +5,11 @@ library(dplyr)
 library(tidyr)
 library(ggplot2)
 library(lubridate)
+library(rsconnect)
 
 #load data
 temp = read.csv('Weather20-cat.csv')
 old = read.csv('1951.csv')
-pm25 = read.csv('CAPM25.csv')
 
 #prepare data
 temp30 = temp %>% 

@@ -1,0 +1,14 @@
+name: CA_Dreamin
+title: CA_Dreamin
+username:
+account: u31jbu-janderson5417
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5167599
+bundleId: 5272341
+url: https://u31jbu-janderson5417.shinyapps.io/CA_Dreamin/
+when: 1637362428.01106
+lastSyncTime: 1637362428.01107
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: CAPM25.csv|LICENSE|README.md|www/avatar.png|img
