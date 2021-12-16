@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # data files
 *.img
 *.csv
@@ -44,3 +45,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+=======
+*.csv
+>>>>>>> 6992ed5296c41b02703b86aafad17aa6549a690f
