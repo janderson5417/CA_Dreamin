@@ -31,6 +31,7 @@ fifties = old %>%
          Year = as.integer(Year))
 
 ##ui.R##
+
 ui = dashboardPage(
   dashboardHeader(
     title = 'Climate variations in selected California cities',
